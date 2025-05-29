@@ -7,4 +7,6 @@ This repo includes work detailed below
 
 V1535 Sco,
 V407 Cyg,
-V8859 Sag
+V8859 Sag,
+V392 Per,
+V723 Cas
