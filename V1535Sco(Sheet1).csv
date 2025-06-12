@@ -1,0 +1,132 @@
+Epoch,MJD,"Freq
+(GHz)","Flux
+(mJy)","eFlux
+(mJy)",Program,"Reduced
+by",UT Date,Config,Notes
+1,57067.5,4.55,4.132,0.0203,13B-057,Justin,2/14/2015,B,"JMFIT (dowidth -1), calibrated by CASA pipeline, imaged in difmap w/ 10 minute phase selfcal, JMFIT in AIPS"
+ , ,7.38,2.786,0.0128, , , , ,"JMFIT (dowidth -1), 10 minute phase selfcal in difmap"
+ , ,28.2,0.819,0.0575, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,36.5,0.675,0.0834, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , , , , , , , , , 
+2a,57071.5,13.5,0.416,0.0175,13B-057,Justin,2/18/2015,B,"JMFIT (dowidth -1), calibrated by CASA pipeline, imaged in difmap, no selfcal, JMFIT in AIPS"
+ , ,17.4,0.344,0.0213, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,28.2,0.295,0.0505, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,36.5,0.376,0.0714, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , , , , , , , , , 
+2b,57072.5,1.26,1.57,0.0765,13B-057,Justin,2/19/2015,B,"JMFIT (dowidth -1), calibrated by CASA pipeline, imaged in difmap, no selfcal, JMFIT in AIPS"
+ , ,1.74,1.21,0.0728, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,4.55,0.65,0.0168, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,7.38,0.439,0.0126, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , , , , , , , , , 
+2c,57072.5,4.87,0.484,0.0505,BL209,Justin,2/19/2015,VLBA,"2 components, modeled in Difmap, C1=0.280 mJy, C2=0.204 mJy"
+ , , , , , , , , , 
+3a,57077.6,13.5,0.385,0.0163,13B-057,Justin,2/24/2015,B,"JMFIT (dowidth -1), calibrated by CASA pipeline, imaged in difmap, no selfcal, JMFIT in AIPS"
+ , ,17.4,0.456,0.02, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,28.2,0.785,0.0485, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,36.5,0.845,0.0758, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , , , , , , , , , 
+3c,57077.7,4.87,0.155,0.0409,BL209,Justin,2/24/2015,VLBA,non-detection (so far...)
+ , , , , , , , , , 
+3b,57082.5,1.26,0.0142,0.101,13B-057,Justin,3/1/2015,B,"non-detection, flux and rms from Difmap, calibrated by CASA, imaged in difmap"
+ , ,1.74,0.12,0.0655, , , , ,"non-detection, flux and rms from Difmap"
+ , ,4.55,0.221,0.0181, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,7.38,0.192,0.0157, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , , , , , , , , , 
+4a,57088.5,13.5,0.585,0.0166,13B-057,Justin,3/7/2015,B,"JMFIT (dowidth -1), calibrated by CASA pipeline, imaged in difmap, 10 minute phase selfcal, JMFIT in AIPS"
+ , ,17.4,0.755,0.0207, , , , ,"JMFIT (dowidth -1), 10 minute phase selfcal"
+ , ,28.2,1.15,0.0462, , , , ,"JMFIT (dowidth -1), 10 minute phase selfcal"
+ , ,36.5,1.68,0.071, , , , ,"JMFIT (dowidth -1), 10 minute phase selfcal"
+ , , , , , , , , , 
+4b,57091.4,1.26,0.153,0.0738,13B-057,Justin,3/10/2015,B,"non-detection, flux and rms from Difmap, calibrated by CASA, imaged in difmap"
+ , ,1.74,0.11,0.0538, , , , ,"non-detection, flux and rms from Difmap"
+ , ,4.55,0.455,0.0187, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,7.38,0.536,0.0136, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , , , , , , , , , 
+5a,57106.42,13.5,0.267,0.0126,13B-057,Justin,3/25/2015,B,"JMFIT (dowidth -1), recalibrated with AIPS, no selfcals"
+ , ,17.4,0.299,0.0143, , , , ,JMFIT (dowidth -1)
+ , ,28.2,0.348,0.0405, , , , ,JMFIT (dowidth -1)
+ , ,36.5,0.186,0.0551, , , , ,"non-detection, peak and rms from difmap"
+ , , , , , , , , , 
+5b,57106.47,1.26,0.273,0.112,13B-057,Justin,3/25/2015,B,"non-detection, flux and rms from Difmap, calibrated by CASA, imaged in difmap"
+ , ,1.74,0.163,0.0597, , , , ,"non-detection, flux and rms from Difmap"
+ , ,4.55,0.222,0.0161, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,7.38,0.253,0.012, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , , , , , , , , , 
+6a,57119.41,13.5,0.457,0.0248,13B-057,Justin,4/7/2015,B,"JMFIT (dowidth -1), calibrated by CASA pipeline, imaged in difmap, 10 minute phase selfcal, JMFIT in AIPS"
+ , ,17.4,0.399,0.0182, , , , ,"JMFIT (dowidth -1), 20 minute phase selfcal"
+ , ,28.2,0.323,0.0446, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,36.5,0.276,0.0602, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , , , , , , , , , 
+6b,57120.57,1.26,0.873,0.1,13B-057,Justin,4/8/2015,B,"JMFIT (dowidth -1), calibrated by CASA pipeline, imaged in difmap, no selfcal"
+ , ,1.74,0.661,0.0562, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,4.55,0.483,0.0191, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,7.38,0.374,0.0138, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , , , , , , , , , 
+7a,57130.35,1.26,0.444,0.0813,13B-057,Justin,4/18/2015,B,"JMFIT (dowidth -1), calibrated in AIPS, looking for polarization (none seen in L-band), no selfcal"
+ , ,1.74,0.258,0.056, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,4.55,0.256,0.0172, , , , ,"JMFIT (dowidth -1), no selfcal, no polarization"
+ , ,7.38,0.228,0.0117, , , , ,"JMFIT (dowidth -1), no selfcal, possible polarization but just barely at 3-sigma level"
+ , , , , , , , , , 
+7b,57131.33,13.5,0.209,0.0156,13B-057,Justin,4/19/2015,B,"JMFIT (dowidth -1), calibrated by CASA pipeline, imaged in difmap, no selfcal, JMFIT in AIPS"
+ , ,17.4,0.167,0.0221, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,28.2,0.173,0.0482, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,36.5,0.0395,0.0833, , , , ,"non-detection, flux and rms from difmap"
+ , , , , , , , , , 
+8a,57143.3,1.26,-0.0723,0.106,13B-057,Justin,5/1/2015,B,"non-detection; calibrated by CASA pipeline, imaged in difmap, no selfcal (polarization calibration not done yet)"
+ , ,1.74,0.165,0.0711, , , , ,"non-detection, flux and rms from difmap"
+ , ,4.55,0.17,0.0183, , , , ,"JMFIT (dowidth -1), no selfcal, not sure why the noise is so high"
+ , ,7.38,0.139,0.0144, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , , , , , , , , , 
+8b,57143.34,13.5,0.129,0.0168,13B-057,Justin,5/1/2015,B,"JMFIT (dowidth -1), calibrated by CASA pipeline, imaged in difmap, no selfcal, JMFIT in AIPS"
+ , ,17.4,0.164,0.0216, , , , ,"JMFIT (dowidth -1), no selfcal"
+ , ,28.2,0.174,0.0523, , , , ,"JMFIT (dowidth -1), no selfcal; NOTE: just barely found nova, should probably count as a non-detection"
+ , ,36.5,0.0153,0.0753, , , , ,"non-detection, flux and rms from difmap"
+ , , , , , , , , , 
+9,57158.3,1.26,-0.152,0.177,S61420,Justin,5/16/2015,B -> BnA,non-detection; calibrated with CASA pipeline; extra flagging in AIPS; imaged in Difmap; shorter scans that previous obs.
+ , ,1.74,0.101,0.0784, , , , ,non-detection; flux and rms from difmap
+ , ,4.55,0.0727,0.023, , , , ,JMFIT (dowidth -1)
+ , ,7.38,0.0708,0.0171, , , , ,JMFIT (dowidth -1)
+ , ,13.5,0.0518,0.0175, , , , ,3-bit; JMFIT (dowidth -1)
+ , ,16.5,0.0217,0.0214, , , , ,non-detection; flux and rms from difmap; 3-bit
+ , ,29.5,0.0401,0.0362, , , , ,non-detection; flux and rms from difmap; 3-bit; recalibrated in AIPS and got lower rms but still no detection
+ , ,35,-0.00361,0.045, , , , ,non-detection; flux and rms from difmap; 3-bit; recalibrated in AIPS and got lower rms but still no detection
+ , , , , , , , , , 
+10,57187.2,1.26,0.277,0.116,13B-057,Justin,6/14/2015,BnA -> A,non-detection; calibrated with CAS pipeline; extra flagging in AIPS; images in Difmap
+ , ,1.74,-0.0505,0.0776, , , , ,non-detection; flux and rms from difmap
+ , ,5,0.0194,0.0204, , , , ,non-detection; flux and rms from difmap
+ , ,7,0.044,0.0223, , , , ,non-detection; flux and rms from difmap
+ , ,13.5,0.0587,0.0157, , , , ,possible detection; JMFIT (dowidth -1)
+ , ,16.5,0.0569,0.021, , , , ,non-detection; flux and rms from difmap
+ , ,29.5,0.13,0.0446, , , , ,non-detection; flux and rms from difmap
+ , ,35,-0.0206,0.0588, , , , ,non-detection; flux and rms from difmap
+ , , , , , , , , , 
+11,57360.7,1.26,XX,XX,13B-057,Justin,12/4/2015,D,"CASA pipeline flagged out pretty much all of L-band; NOTE: observed in same block as Sco 2014, calibrated with CASA pipeline"
+ , ,1.74,XX,XX, , , , ,CASA pipeline flagged out pretty much all of L-band; may re-calibrate with AIPS later
+ , ,5,0.0795,0.031, , , , ,non-detection; flux and rms from difmap
+ , ,7,0.0561,0.022, , , , ,non-detection; flux and rms from difmap
+ , ,13.5,-0.0000599,0.0196, , , , ,non-detection; flux and rms from difmap
+ , ,16.5,-0.000577,0.0199, , , , ,non-detection; flux and rms from difmap
+ , ,29.6,-0.0157,0.051, , , , ,non-detection; flux and rms from difmap
+ , ,35,0.0632,0.0608, , , , ,non-detection; flux and rms from difmap
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 
+ , , , , , , , , , 

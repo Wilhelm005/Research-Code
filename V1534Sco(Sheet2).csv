@@ -1,0 +1,152 @@
+Epoch,MJD,"Freq
+(GHz)","Flux
+(mJy)","eFlux
+(mJy)",Program,"Reduced
+by",UT Date,Config,Notes
+1,56747.5,29.5,6.42,0.0217,13B-057,Justin,3/31/2014,A,"3-bit obs., JMFIT, dowidth -1"
+ , ,35,5.12,0.0281, , , , ,"3-bit obs., JMFIT, dowidth -1"
+ , , , , , , , , , 
+2a,56757.5,1.26,14.9,0.0489,13B-057,Justin,4/10/2014,A,"JMFIT, dowidth -1"
+ , ,1.73,15.3,0.0413, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,13.3,0.0093, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,10.5,0.0061, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+2b,56759.5,13.5,6.44,0.0183,13B-057,Justin,4/12/2014,A,"JMFIT, dowidth -1"
+ , ,17.5,5.19,0.0241, , , , ,"JMFIT, dowidth -1"
+ , ,29.5,2.38,0.0207, , , , ,"3-bit obs., JMFIT, dowidth -1"
+ , ,35,1.58,0.0226, , , , ,"3-bit obs., JMFIT, dowidth -1"
+ , , , , , , , , , 
+3a,56768.4,13.5,4.59,0.0132,13B-057,Justin,4/21/2014,A,"JMFIT, dowidth -1"
+ , ,17.5,3.98,0.0178, , , , ,"JMFIT, dowidth -1"
+ , ,29.5,2.05,0.029, , , , ,"3-bit obs., missing IF 64, JMFIT, dowidth -1"
+ , ,35,1.51,0.0297, , , , ,"3-bit obs., missing IF 64, JMFIT, dowidth -1"
+ , , , , , , , , , 
+3b,56768.4,1.26,10.998,0.056,13B-057,Justin,4/21/2014,A,"JMFIT, dowidth -1"
+ , ,1.83,9.67,0.0416, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,7.69,0.0136, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,6.16,0.0101, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+4a,56774.4,1.26,9.64,0.0464,13B-057,Justin,4/27/2014,A,"JMFIT, dowidth -1"
+ , ,1.83,8.07,0.0367, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,6.01,0.0146, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,3.79,0.0257, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+4b,56776.4,13.5,3.51,0.0121,13B-057,Justin,4/29/2014,A,"JMFIT, dowidth -1"
+ , ,17.5,3.02,0.0159, , , , ,"JMFIT, dowidth -1"
+ , ,29.5,1.93,0.0227, , , , ,"3-bit obs., JMFIT, dowidth -1"
+ , ,35,1.496,0.0266, , , , ,"3-bit obs., JMFIT, dowidth -1"
+ , , , , , , , , , 
+5a,56788.3,1.26,7.29,0.0473,13B-057,Justin,5/11/2014,A,"JMFIT, dowidth -1"
+ , ,1.73,6,0.0447, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,3.58,0.0246, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,1.77,0.0223, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+5b,56790.4,13.5,2.4,0.0117,13B-057,Justin,5/13/2014,A,"JMFIT, dowidth -1"
+ , ,17.5,2.05,0.015, , , , ,"JMFIT, dowidth -1"
+ , ,29.5,1.01,0.0203, , , , ,"3-bit obs. JMFIT, dowidth -1"
+ , ,35,0.675,0.0236, , , , ,"3-bit obs. JMFIT, dowidth -1"
+ , , , , , , , , , 
+6a,56821.3,1.26,2.75,0.0824,13B-057,Justin,6/13/2014,A->D (move),"JMFIT, dowidth -1"
+ , ,1.73,2.97,0.0738, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,1.11,0.0593, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,0.571,0.047, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+6b,56827.2,13.5,1.197,0.0465,13B-057,Justin,6/19/2014,A->D (move),"had to cut out long baselines, JMFIT, dowidth -1"
+ , ,17.5,1.15,0.0541, , , , ,"had to cut out long baselines, JMFIT, dowidth -1"
+ , ,29.5,0.433,0.0625, , , , ,"3-bit obs., had to cut out long baselines, JMFIT, dowidth -1"
+ , ,35,0.294,0.063, , , , ,"3-bit obs., had to cut out long baselines, JMFIT, dowidth -1"
+ , , , , , , , , , 
+7a,56841.2,1.26,3.53,0.0426,13B-057,Justin,7/3/2014,D,"JMFIT, dowidth -1"
+ , ,1.73,3.05,0.0129, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,1.67,0.0333, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,1.22,0.0265, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+7b,56851.2,13.5,0.772,0.0182,13B-057,Justin,7/13/2014,D,"JMFIT, dowidth -1"
+ , ,17.4,0.646,0.0221, , , , ,"JMFIT, dowidth -1"
+ , ,28.2,0.521,0.118, , , , ,"JMFIT, dowidth -1, maybe decorrelated, very noisy"
+ , ,36.5,0.21,0.152, , , , ,"NON-DETECTION, noisy, maybe decorrelated, flux and rms from difmap"
+ , , , , , , , , , 
+8a,56881,1.26,1.24,0.491,13B-057,Justin,8/12/2014,D,"JMFIT, dowidth -1"
+ , ,1.73,1.69,0.143, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,0.792,0.0322, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,0.504,0.033, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+9a,56908.1,1.26,1.19,0.313,13B-057,Justin,9/8/2014,D,"JMFIT had problems this time, used peak flux and off-source rms from difmap"
+ , ,1.73,1.07,0.134, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,0.674,0.0344, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,0.403,0.0155, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+9b,56936.6,13.5,0.257,0.0138,13B-057,Justin,10/6/2014,DnC -> C,"JMFIT, dowidth -1"
+ , ,17.5,0.2213,0.0167, , , , ,"JMFIT, dowidth -1"
+ , ,28.2,0.322,0.054, , , , ,"JMFIT, dowidth -1, NOTE: I think JMFIT gets too high a flux for this one, probably more like 0.22 mJy"
+ , ,36.5,0.166,0.0462, , , , ,NON-DETECTION
+ , , , , , , , , , 
+10a,56950.9,1.26,0.88,0.176,13B-057,Justin,10/20/2014,C,"JMFIT, dowidth -1"
+ , ,1.73,0.352,0.15, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,0.137,0.0202, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,0.0398,0.0129, , , , ,"JMFIT, dowidth -1, just barely a detection (I only found it because I knew where to look)"
+ , , , , , , , , , 
+10b,56952.9,13.5,0.136,0.041,13B-057,Justin,10/22/2014,C,"JMFIT, dowidth -1"
+ , ,17.5,0.0645,0.0163, , , , ,"JMFIT, dowidth -1 NOTE: reported flux maybe too low, uniform weighting has ~0.18 mJy, natural is 0.06"
+ , ,28.2,0.138,0.0396, , , , ,"JMFIT, dowidth -1"
+ , ,36.5,0.133,0.0517, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+11a,56969.8,13.5,0.135,0.0136,13B-057,Justin,11/8/2014,C,"JMFIT, dowidth -1"
+ , ,17.5,0.158,0.0174, , , , ,"JMFIT, dowidth -1"
+ , ,28.2,-0.0562,0.0346, , , , ,"NON-DETECTION, flux and rms from difmap"
+ , ,36.5,0.0479,0.046, , , , ,"NON-DETECTION, flux and rms from difmap"
+ , , , , , , , , , 
+11b,56969.9,1.26,0.461,0.178,13B-057,Justin,11/8/2014,C,"NON-DETECTION, very noisy, flux and rms from Difmap"
+ , ,1.73,0.607,0.149, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,0.273,0.0186, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,0.198,0.0109, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+12a,56997.8,1.35,0.398,0.156,13B-057,Justin,12/6/2014,C,"NON-DETECTION, flux and rms from difmap, very messy, cut out short baselines to get rid of the worst of it; NOTE: observed in same block as Sgr 2014, calibrated with CASA pipeline"
+ , ,1.74,0.191,0.107, , , , ,"NON-DETECTION, flux and rms from difmap, very messy"
+ , ,4.55,0.184,0.026, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,0.0982,0.013, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+12b,57003.7,13.5,0.1,0.0149,13B-057,Justin,12/12/2014,C,"JMFIT, dowidth -1, NOTE: observed in same block as Sgr 2014, calibrated with CASA pipeline"
+ , ,17.5,0.109,0.0172, , , , ,"JMFIT, dowidth -1"
+ , ,28.2,0.109,0.0401, , , , ,"NON-DETECTION, flux and rms from difmap"
+ , ,36.5,-0.0102,0.0629, , , , ,"NON-DETECTION, flux and rms from difmap"
+ , , , , , , , , , 
+13a,57039.6,13.5,0.128,0.0122,13B-057,Justin,1/17/2015,CnB,"JMFIT, dowidth -1, NOTE: observed in same block as Sgr 2014, calibrated with CASA pipeline"
+ , ,17.4,0.0693,0.0163, , , , ,"JMFIT, dowidth -1"
+ , ,28.2,-0.0419,0.0413, , , , ,"NON-DETECTION, flux and rms from difmap"
+ , ,36.5,0.0144,0.0541, , , , ,"NON-DETECTION, flux and rms from difmap"
+ , , , , , , , , , 
+13b,57039.7,1.26,0.272,0.136,13B-057,Justin,1/17/2015,CnB,"non-detection, flux and rms from difmap; NOTE: observed in same block as Sgr 2014, calibrated with CASA pipeline"
+ , ,1.73,0.153,0.0705, , , , ,"non-detection, flux and rms from difmap"
+ , ,4.55,0.11,0.0139, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,0.0714,0.0102, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+14a,57082.6,1.26,0.192,0.116,13B-057,Justin,3/1/2015,B,"non-detection, flux and rms from difmap; NOTE: observed in same block as Sgr 2014, calibrated with CASA pipeline"
+ , ,1.8,0.228,0.045, , , , ,"JMFIT, dowidth -1"
+ , ,4.55,0.0528,0.0157, , , , ,"JMFIT, dowidth -1"
+ , ,7.38,0.0586,0.0116, , , , ,"JMFIT, dowidth -1"
+ , , , , , , , , , 
+14b,57085.5,13.5,0.0451,0.0142,13B-057,Justin,3/4/2015,B,"JMFIT, dowidth -1, NOTE: observed in same block as Sgr 2014, calibrated with CASA pipeline"
+ , ,17.4,0.0442,0.0175, , , , ,"JMFIT, dowidth -1"
+ , ,28.2,-0.0365,0.0424, , , , ,"non-detection, flux and rms from difmap"
+ , ,36.5,-0.0088,0.0569, , , , ,"non-detection, flux and rms from difmap"
+ , , , , , , , , , 
+15a,57136.4,1.26,0.115,0.0965,13B-057,Justin,4/24/2015,B,"non-detection, flux and rms from difmap; NOTE: observed in same block as Sgr 2014, calibrated with CASA pipeline"
+ , ,1.8,0.0672,0.0514, , , , ,"non-detection, flux and rms from difmap"
+ , ,4.55,0.0609,0.0127, , , , ,"JMFIT (dowidth -1), just barely able to find nova"
+ , ,7.38,0.0676,0.0102, , , , ,JMFIT (dowidth -1)
+ , , , , , , , , , 
+15b,57140.4,13.5,0.011,0.0147,13B-057,Justin,4/28/2015,B,"non-detection, flux and rms from difmap; NOTE: observed in same block as Sgr 2014, calibrated with CASA pipeline"
+ , ,17.4,0.0266,0.0181, , , , ,"non-detection, flux and rms from difmap"
+ , ,28.2,-0.0291,0.0449, , , , ,"non-detection, flux and rms from difmap"
+ , ,36.5,0.113,0.0622, , , , ,"non-detection, flux and rms from difmap"
+ , , , , , , , , , 
+16,57360.7,1.26,XX,XX,13B-057,Justin,12/4/2015,D,"CASA pipeline flagged out pretty much all of L-band; NOTE: observed in same block as Sco 2015, calibrated with CASA pipeline"
+ , ,1.74,XX,XX, , , , ,CASA pipeline flagged out pretty much all of L-band; may re-calibrate with AIPS later
+ , ,5,0.0211,0.0335, , , , ,"non-detection, flux and rms from difmap"
+ , ,7,0.0352,0.0265, , , , ,"non-detection, flux and rms from difmap"
+ , ,13.5,0.00819,0.018, , , , ,"non-detection, flux and rms from difmap"
+ , ,16.5,0.0276,0.0204, , , , ,"non-detection, flux and rms from difmap"
+ , ,29.6,-0.0108,0.0578, , , , ,"non-detection, flux and rms from difmap"
+ , ,35,0.0899,0.0581, , , , ,"non-detection, flux and rms from difmap"
+ , , , , , , , , , 
