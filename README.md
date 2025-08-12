@@ -12,6 +12,7 @@ This repo includes work for multiple classical novae detailed below
 ##### V723 Cas - ( V723Cas_work )
 ##### V1534 Sco - ( V1534Sco_Work )
 ##### RS Oph - ( RS Oph Work )
+##### U Sco = (USco Lightcurve)
 
 
 ## Brightness Temperature for:
@@ -28,6 +29,9 @@ This repo includes work for multiple classical novae detailed below
 ## Brightness Temperature combination notebook:
 ##### Combined_Brightness_Temperature
 ###### ( This has all 7 novae, V1535 Sco, V1534 Sco, V407 Cyg, V5589 Sgr, V392 Per, V723 Cas, and RS Oph. The notebook conatins code and a plot which compiles and compares the novae at the most constraining frequency (which is usually the smallest frequency), and the frequency for each nova can be seen through the code. )
+
+
+## Vpeak vs Smax and Tmax vs visual t2 plots
 
 
 ## Spectral Index Plots for:
