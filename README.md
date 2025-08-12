@@ -32,6 +32,7 @@ This repo includes work for multiple classical novae detailed below
 
 
 ## Vpeak vs Smax and Tmax vs visual t2 plots
+##### (Vpeak vs Smax and tmax vs visual t2)
 
 
 ## Spectral Index Plots for:
@@ -40,3 +41,4 @@ This repo includes work for multiple classical novae detailed below
 ##### V407 Cyg - ( V407_Spectral_Index )
 ##### V5589 Sgr - ( V5589_Spectral_Index )
 ##### V392 Per - ( V392Per_Spectral_Index )
+##### U Sco - (USco Spectral Index)
