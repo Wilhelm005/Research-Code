@@ -46,4 +46,4 @@ This repo includes work for multiple classical novae detailed below
 ##### RS Oph - ( RS Oph Spectral Index )
 ##### V1534 Sco - ( V1534 Sco Spectral Index )
 ##### U Sco - ( USco Spectral Index )
-###### (No V723 Cas isn't missing, it doesn't have enough data to plot brightness temperature.) 
+###### (No V723 Cas isn't missing, it doesn't have enough data to plot spectral index.) 
