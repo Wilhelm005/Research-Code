@@ -28,8 +28,9 @@ This repo includes work for multiple classical novae detailed below
 
 
 ## Brightness Temperature combination notebook:
-##### Combined_Brightness_Temperature
-###### ( This has all novae, V1535 Sco, V1534 Sco, V407 Cyg, V5589 Sgr, V392 Per, V723 Cas, RS Oph, and USco. The notebook conatins code and a plot which compiles and compares the novae at the most constraining frequency (which is usually the smallest frequency), and the frequency for each nova can be seen through the code. )
+##### Combined_Brightness_Temperature_w_V745Sco
+###### ( This has all novae, V745 Sco, V1535 Sco, V1534 Sco, V407 Cyg, V5589 Sgr, V392 Per, V723 Cas, RS Oph, and USco. The notebook conatins code and a plot which compiles and compares the novae at the most constraining frequency (which is usually the smallest frequency), and the frequency for each nova can be seen through the code. )
+###### Also have Combined_Brightness_Temperature, which was the original, but that one is not updated with the V745 Sco nova.
 
 
 ## Vpeak vs Smax and Tmax vs visual t2 plots
@@ -46,4 +47,18 @@ This repo includes work for multiple classical novae detailed below
 ##### RS Oph - ( RS Oph Spectral Index )
 ##### V1534 Sco - ( V1534 Sco Spectral Index )
 ##### U Sco - ( USco Spectral Index )
-###### (No V723 Cas isn't missing, it doesn't have enough data to plot spectral index.) 
+###### (V723 Cas doesn't have enough data to plot spectral index.) 
+
+
+## Data files
+
+#### V723 Cas - (v723cas.dat)
+#### V5589 Sgr - (v5589sgr.dat) and (v5589.txt)
+#### V407 Cyg - (v407cyg.dat)
+#### V392 Per - (v392per.dat)
+#### U Sco - (usco_vla22.dat)
+#### RS Oph - (aavsodata_6908b40cd277e.txt) and (RS Oph 2021 eruption - VLA observations - Лист1.csv)
+#### V1535 Sco - (V1535_Sco.txt) and (V1535Sco(Sheet1).csv)
+#### V1534 Sco - (V1534Sco(Sheet2).csv)
+
+
