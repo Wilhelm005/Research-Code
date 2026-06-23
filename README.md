@@ -37,6 +37,10 @@ This repo includes work for multiple classical novae detailed below
 ##### Vpeak vs Smax and tmax vs visual t2
 ###### ( This has all the novae, V1535 Sco, V1534 Sco, V407 Cyg, V5589, V392 Per, V723 Cas, RS Oph, and U Sco. This plots optical features from the novae with radio features, specifically it plots the Vpeak (The optical peak's apparent magnitude) vs the Smax (The radio's highest flux), and Tmax (The day when the radio hits the max flux) vs t2 (The time it takes for the optical to fall by two magnitude). )
 
+## VLBI vs VLA data comparison plots
+##### VLBI vs VLA data
+###### ( This contains comparison plots for V407 Cyg and V1535 Sco, comparing the VLBI vs VLA data. )
+
 
 ## Spectral Index Plots for:
 
